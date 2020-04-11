@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dalex/Desktop/mr_bubblegum/task3/problemD/main.cpp
+algorithm
+-
+cmath
+-
+iostream
+-
+queue
+-
+stack
+-
+unordered_map
+-
+vector
+-
+

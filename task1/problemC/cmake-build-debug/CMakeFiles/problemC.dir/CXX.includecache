@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dalex/Desktop/mr_bubblegum/task1/problemC/main.cpp
+bits/unique_ptr.h
+-
+iostream
+-
+map
+-
+queue
+-
+string
+-
+unordered_map
+-
+utility
+-
+vector
+-
+

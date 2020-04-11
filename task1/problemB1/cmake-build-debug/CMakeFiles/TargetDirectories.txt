@@ -1,0 +1,3 @@
+/home/dalex/Desktop/mr_bubblegum/task1/problemB1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dalex/Desktop/mr_bubblegum/task1/problemB1/cmake-build-debug/CMakeFiles/problemB1.dir
+/home/dalex/Desktop/mr_bubblegum/task1/problemB1/cmake-build-debug/CMakeFiles/edit_cache.dir

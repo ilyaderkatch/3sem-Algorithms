@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++17 -fsanitize=address,undefined,leak -fno-omit-frame-pointer -g -Wall -Wconversion -Wextra -Werror -g   CMakeFiles/problemBres.dir/main.cpp.o  -o problemBres 
